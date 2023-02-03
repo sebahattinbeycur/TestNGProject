@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1e15da9-ccd3-4c88-9a42-519eac0e85fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exelenter/class01/_01_TestNGDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exelenter/class01/_02_TestNGDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exelenter/class01/_03_TestNGDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exelenter/class01/_04_TestNGDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exelenter/class01/_05_Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/exelenter/class01/_06_HW_TestNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +38,8 @@
     "last_opened_file_path": "D:/SeleniumProject/SeleniumNov2022",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
