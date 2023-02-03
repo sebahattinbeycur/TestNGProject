@@ -24,7 +24,7 @@ import org.testng.annotations.*;
  *          Starting Test
  *          -->Test Three
  *          Ending Test
- *          === End of Regression Test ===
+ *          ==== End of Regression Test ====
  */
 public class _06_HW_TestNG {
     @Test
