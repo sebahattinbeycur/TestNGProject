@@ -17,15 +17,15 @@ public class _01_ValidationTests extends BaseClass {
      *    6. configs folder DONE
      */
     // We need to call WebDriver and also Quit WebDriver before and after EACH TEST.
-    @BeforeMethod
-    void openBrowser() {
-        setUp();
-    }
-
-    @AfterMethod
-    void afterMethod() {
-        tearDown();
-    }
+//    @BeforeMethod
+//    void openBrowser() {
+//        setUp();
+//    }
+//
+//    @AfterMethod
+//    void afterMethod() {
+//        tearDown();
+//    }
 
     @Test
     void titleValidation() {

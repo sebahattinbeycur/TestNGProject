@@ -55,7 +55,7 @@ public class _02_AssertDemo extends BaseClass {
 
     @Test
     void invalidLoginTest() {
-        String expectedErrorMessage ="Password cannot be empty";
+        String expectedErrorMessage ="Password cannot be empty1";
         LoginPage login = new LoginPage();
         sendText(login.username, ConfigsReader.getProperties("username"));
         clickButWaitForClickability(login.loginBtn);

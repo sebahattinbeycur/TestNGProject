@@ -18,7 +18,7 @@ public class _01_SoftAssertRecap {
         // Example of Soft Assert
         System.out.println("Before Soft Assert");
         SoftAssert soft = new SoftAssert();
-        soft.assertTrue(true);
+        soft.assertTrue(false);
         System.out.println("After Soft Assert");  // This line will print, even if soft Assert before it fails.
         soft.assertAll();
         System.out.println("ALL test steps passed.");  // This line will print if ALL steps pass, otherwise it will not print.
