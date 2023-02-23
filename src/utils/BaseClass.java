@@ -14,7 +14,7 @@ import static com.google.common.reflect.Reflection.initialize;
 
 public class BaseClass extends CommonMethods {
     public static WebDriver driver;
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public static void setUp() {
         ConfigsReader.loadProperties(Constants.CONFIGURATION_FILEPATH); // Replaced hard-coded filePath with Constants
         switch (ConfigsReader.getProperties("browser").toLowerCase()) {
@@ -35,7 +35,7 @@ public class BaseClass extends CommonMethods {
         initialize();
     }
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public static void tearDown() {
         try {
             Thread.sleep(2000);

@@ -10,6 +10,7 @@ import java.io.File;
 import java.io.IOException;
 import java.time.Duration;
 import java.util.List;
+import java.util.Random;
 import java.util.Set;
 
 import static utils.BaseClass.driver;
@@ -281,7 +282,10 @@ public class CommonMethods extends PageInitializer {
     public static void scrollUp(int pixel) {
         jsExecutor().executeScript("window.scrollBy(0,-" + pixel + ")"); // "window.scrollBy(0,-500)"
     }
-
+    /**
+     * Method will take a screenshot when called. Extension defined as .png (You can change to .jpeg from CommonMethods when needed)
+     * @param fileName String as screenshot name
+     */
     public static void takeScreenshot(String fileName) {
         TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
         File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
@@ -292,6 +296,19 @@ public class CommonMethods extends PageInitializer {
             System.out.println("Screenshot is not taken");
         }
     }
-
+    public static String randomStrongPassWord(){
+        String passWord = "";
+        Random rnd = new Random();
+        String lowerLetter = "abcdefghijklmnoprstuwxyz";
+        String capitalLetters = "ABCDEFGHIJKLMNOPRSTUWXYZ";
+        String specialChar = "!#$%&()*+,-.:;<=>?@[]^_{|}~";
+        while (passWord.length() < 12){
+            passWord += lowerLetter.charAt(rnd.nextInt(lowerLetter.length()));
+            passWord += capitalLetters.charAt(rnd.nextInt(capitalLetters.length()));
+            passWord += specialChar.charAt(rnd.nextInt(specialChar.length()));
+            passWord += rnd.nextInt(10);
+        }
+        return passWord;
+    }
 
 }

@@ -2,11 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1e15da9-ccd3-4c88-9a42-519eac0e85fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/exelenter/class04/_02_DataProviderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exelenter/class04/_03_DataProviderDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exelenter/class04/_04_DataProviderDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exelenter/class04/_05_AddEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exelenter/class05/_01_ListenerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exelenter/class05/_02_HW_AddEmployeeFromExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/exelenter/class05/_03_HW_LoginTestNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PersonalDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/ExcelUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testData/ExelenterEmployeesList.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configs/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exelenter/class02/_01_ValidationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exelenter/class02/_01_ValidationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exelenter/class02/_02_AssertDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exelenter/class02/_02_AssertDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/exelenter/class03/_01_SoftAssertRecap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exelenter/class03/_01_SoftAssertRecap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addEmployee.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addEmployee.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regression.xml" beforeDir="false" afterPath="$PROJECT_DIR$/multiClassTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smoke.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loginTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exelenter/class04/_01_GroupsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exelenter/class04/_01_GroupsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AddEmployeePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AddEmployeePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/CommonMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/PageInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/PageInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/TestNGProject.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/TestNGProject.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/TestNGProject.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/TestNGProject.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-test.LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-test.LoginTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/All Test Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Regression Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Regression Suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Regression Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Regression Suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Regression Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Regression Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Regression Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +85,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/TestNGProject&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SeleniumProject/SeleniumNov2022&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -54,66 +98,20 @@
       <recent name="D:\TestNGProject\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TestNGProject\testData" />
       <recent name="D:\TestNGProject\drivers" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.exelenter.class04" />
       <recent name="com.exelenter.class01" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.D:/TestNGProject/package.xml">
-    <configuration name="D:/TestNGProject/package.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG._03_HW_LoginTestNegative">
+    <configuration name="D:/TestNGProject/excel.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProject" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/package.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="true" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners>
-        <listener class="org.testng.internal.annotations.DefaultAnnotationTransformer" />
-      </listeners>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="D:/TestNGProject/regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGProject" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/regression.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="true" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners>
-        <listener class="org.testng.internal.annotations.DefaultAnnotationTransformer" />
-      </listeners>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="D:/TestNGProject/smoke.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGProject" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/smoke.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/excel.xml" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="GROUP_NAME" value="" />
@@ -157,19 +155,80 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_01_ValidationTests" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="_02_HW_AddEmployeeFromExcel" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProject" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exelenter.class02.*" />
+          <option name="PATTERN" value="com.exelenter.class05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="com.exelenter.class02" />
-      <option name="MAIN_CLASS_NAME" value="com.exelenter.class02._01_ValidationTests" />
+      <option name="PACKAGE_NAME" value="com.exelenter.class05" />
+      <option name="MAIN_CLASS_NAME" value="com.exelenter.class05._02_HW_AddEmployeeFromExcel" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.internal.annotations.DefaultAnnotationTransformer" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_HW_AddEmployeeFromExcel.addEmployeeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exelenter.class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.exelenter.class05" />
+      <option name="MAIN_CLASS_NAME" value="com.exelenter.class05._02_HW_AddEmployeeFromExcel" />
+      <option name="METHOD_NAME" value="addEmployeeTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.internal.annotations.DefaultAnnotationTransformer" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03_HW_LoginTestNegative" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exelenter.class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.exelenter.class05" />
+      <option name="MAIN_CLASS_NAME" value="com.exelenter.class05._03_HW_LoginTestNegative" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
@@ -211,19 +270,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.D:/TestNGProject/package.xml" />
-      <item itemvalue="TestNG.D:/TestNGProject/regression.xml" />
-      <item itemvalue="TestNG.D:/TestNGProject/smoke.xml" />
+      <item itemvalue="TestNG.D:/TestNGProject/excel.xml" />
       <item itemvalue="TestNG.D:/TestNGProject/testng.xml" />
-      <item itemvalue="TestNG._01_ValidationTests" />
+      <item itemvalue="TestNG._03_HW_LoginTestNegative" />
+      <item itemvalue="TestNG._02_HW_AddEmployeeFromExcel" />
+      <item itemvalue="TestNG._02_HW_AddEmployeeFromExcel.addEmployeeTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.D:/TestNGProject/package.xml" />
-        <item itemvalue="TestNG.D:/TestNGProject/smoke.xml" />
-        <item itemvalue="TestNG.D:/TestNGProject/regression.xml" />
+        <item itemvalue="TestNG._03_HW_LoginTestNegative" />
+        <item itemvalue="TestNG.D:/TestNGProject/excel.xml" />
         <item itemvalue="TestNG.D:/TestNGProject/testng.xml" />
-        <item itemvalue="TestNG._01_ValidationTests" />
+        <item itemvalue="TestNG._02_HW_AddEmployeeFromExcel" />
+        <item itemvalue="TestNG._02_HW_AddEmployeeFromExcel.addEmployeeTest" />
       </list>
     </recent_temporary>
   </component>
